@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[My website](isur.dev)
+[My website](https://www.isur.dev)
 <!--
 **Isur/isur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
