@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Artur Bednarczyk, aka Isur.
 
+![Image](./xd.png)
+
 I'm passionate software developer with nearly six years of hands-on experience.
 
 🎓 **Education:** I hold a master's degree from the Silesian University of Technology.
 
-💻 **Current Role:** I'm currently a Senior Software Developer and Team Leader at Estimity. My expertise lies in TypeScript and Python, where I delve into the backend intricacies, contributing to the creation of awesome startups.
+💻 **Current Role:** I'm currently a Senior Software Developer at Estimity. Mostly working with TypeScript and Python on backend stuff and creating new aweseome startups.
 
 🚀 **Passion for Learning:** Software development is not just a profession for me; it's a passion that fuels my commitment to continuous learning and skill enhancement.
 
