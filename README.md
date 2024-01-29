@@ -14,7 +14,7 @@ I'm passionate software developer with nearly six years of hands-on experience.
 
 🌐 **My website:** Check out my [personal website](https://www.isur.dev) for more about my journey.
 
-![Image](./preview.jpeg)
+![Image](./dotfiles.png)
 
 <!--
 **Isur/isur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
