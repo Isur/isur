@@ -2,7 +2,7 @@
 
 ![Image](./xd.png)
 
-I'm passionate software developer with nearly six years of hands-on experience.
+I'm passionate software developer with six years of hands-on experience.
 
 💻 **Current Role:** I'm currently a Senior Software Developer at Estimity. Mostly working with TypeScript and Python on backend stuff and creating new aweseome startups.
 
@@ -12,22 +12,7 @@ I'm passionate software developer with nearly six years of hands-on experience.
 
 🤝 **Collaboration and Knowledge Sharing:** I find joy in sharing my knowledge with the team.
 
-🌐 **My website:** Check out my [personal website](https://www.isur.dev) for more about my journey.
+🌐 **My website:** Check out my [personal website](https://www.isur.dev) for more about my journey and my [blog](https://blog.isur.dev).
 
 ![Image](./i3wm.png)
 ![Image](./dotfiles.png)
-
-<!--
-**Isur/isur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
