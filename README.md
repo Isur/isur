@@ -4,7 +4,7 @@
 
 I'm passionate software developer with six years of hands-on experience.
 
-💻 **Current Role:** I'm currently a Senior Software Developer at Estimity. Mostly working with TypeScript and Python on backend stuff and creating new aweseome startups.
+💻 **Current Role:** I'm currently a Fullstack Developer at Ivy.ai. Mostly working with TypeScript.
 
 🎓 **Education:** I hold a master's degree from the Silesian University of Technology.
 
