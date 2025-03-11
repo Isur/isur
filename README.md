@@ -2,9 +2,9 @@
 
 ![Image](./xd.png)
 
-I'm passionate software developer with six years of hands-on experience.
+I'm passionate software developer with seven years of hands-on experience.
 
-💻 **Current Role:** I'm currently a Fullstack Developer at Ivy.ai. Mostly working with TypeScript.
+💻 **Current Role:** I'm currently a Fullstack Developer at Gravyty. Mostly working with TypeScript.
 
 🎓 **Education:** I hold a master's degree from the Silesian University of Technology.
 
