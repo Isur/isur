@@ -15,4 +15,4 @@ I'm passionate software developer with seven years of hands-on experience.
 🌐 **My website:** Check out my [personal website](https://www.isur.dev) for more about my journey and my [blog](https://blog.isur.dev).
 
 ![Image](./hyprland.png)
-![Image](./dotfiles.png)
+![Image](./mac.png)
